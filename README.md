@@ -69,11 +69,9 @@ No coding required. If you can copy, paste, and type, you can do this.
 
 ---
 
-## Images and assets
+## Images and Assets
 
-All TEN:TEN visuals — logos, approved photography, hero assets, and reference imagery — live in the media library:
-
-➡️ **[Open the media library](#)** *(Dropbox link — add when ready)*
+All TEN:TEN visuals — logos, approved photography, hero assets, and reference imagery — live in the `assets/` folder of this repository.
 
 ---
 
