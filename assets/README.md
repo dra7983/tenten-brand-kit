@@ -1,12 +1,8 @@
 # Assets
 
-All TEN:TEN visual assets — logos, approved photography, hero imagery, and reference files — live in the media library, not in this repository. This keeps the repo light and fast.
+All TEN:TEN visual assets live directly in this folder.
 
-➡️ **[Open the media library](#)** *(Dropbox link — add when ready)*
-
----
-
-## What's in the media library
+## What's here
 
 | Folder | Contents |
 |---|---|
@@ -16,15 +12,13 @@ All TEN:TEN visual assets — logos, approved photography, hero imagery, and ref
 | `workshop/` | Approved workshop and process photography |
 | `reference/` | Reference images for AI image generation briefs |
 
----
-
 ## Logo files
 
-The media library contains the following logo configurations:
-
-- `tenten-fulllockup-black.svg` — Full lockup (TEN:TEN + WATCHES), black on transparent
-- `tenten-fulllockup-white.svg` — Full lockup, white on transparent
-- `tenten-wordmark-black.svg` — Wordmark only (TEN:TEN), black on transparent
-- `tenten-wordmark-white.svg` — Wordmark only, white on transparent
+| File | Description |
+|---|---|
+| `logos/tenten-fulllockup-black.svg` | Full lockup (TEN:TEN + WATCHES), black on transparent |
+| `logos/tenten-fulllockup-white.svg` | Full lockup, white on transparent |
+| `logos/tenten-wordmark-black.svg` | Wordmark only, black on transparent |
+| `logos/tenten-wordmark-white.svg` | Wordmark only, white on transparent |
 
 See `brand/visual/logo.md` for usage rules before using any logo file.
